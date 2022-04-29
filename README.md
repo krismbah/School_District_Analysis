@@ -29,16 +29,16 @@ Replacing the ninth graders' improved average math and reading scores. However, 
 
 - How does replacing the ninth-grade scores affect the following:
     -Math and reading scores by grade
-    Replacing the ninth-grade scores didn't affect the math and reading scores of any other grade at THS.
+            Replacing the ninth-grade scores didn't affect the math and reading scores of any other grade at THS.
     
     -Scores by school spending
-    Due to rounding, I am not certain that replacing the ninth-grade scores didn't affect math and reading scores by school spending. But it appears that way.
+        Due to rounding, I am not certain that replacing the ninth-grade scores didn't affect math and reading scores by school spending. But it appears that way.
     
     -Scores by school size
-    Due to rounding, I am not certain that replacing the ninth-grade scores didn't affect math and reading scores by school size. But it appears that way.
+            Due to rounding, I am not certain that replacing the ninth-grade scores didn't affect math and reading scores by school size. But it appears that way.
 
     -Scores by school type
-    Replacing the ninth-grade scores improved the average reading score for "Charter" school types. However, the average math score was lowered and passing percentages were also lowered across the board.
+            Replacing the ninth-grade scores improved the average reading score for "Charter" school types. However, the average math score was lowered and passing percentages were also lowered across the board.
 ![Ninth_Old_Results5](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results5.jpg)
 ![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results6.jpg)
 
