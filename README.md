@@ -16,16 +16,16 @@ The purpose of this analysis is to assist Maria in creating a high-level snapsho
 
 - How is the district summary affected?
 The distrct summary was created by first merging the student and school dataframes. New variables were created to calculate total student count, total school count, average reading score, and average math score. Student data from ninth grade students from Thomas High School (THS) was omitted. Passing rates for the new student total at THS were calculated in regards to math and reading.  Passing percentages were also calculated. The aforementioned metrics were then compiled into a new dataframe called "district_summary_df" with the following format to generate the output below:
-![District_Results1](https://raw.githubusercontent.com/krismbah/Election_Analysis/main/data-Module-3-Challenge-election-results-2.png)
+![District_Results1](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results1.jpg)
 
 - How is the school summary affected?
 Using the school data, an index of school type was created. Metrics regarding total student count, total school budget, per capita spending, average test scores, passing scores for math and reading, number of students passing math and reading by school, percentage of students passing math and reading scores by school, total students that passed math and reading by school and their percentages. The aforementioned metrics were then compiled into a new dataframe called "per_school_summary_df" with the following format to generate the output below:
-![School_Results2](https://raw.githubusercontent.com/krismbah/Election_Analysis/main/data-Module-3-Challenge-election-results-2.png)
+![School_Results2](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results2.jpg)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing the ninth graders' improved average math and reading scores. However, it lowered the percentage of students passing math, reading, and both subjects overall. THS didn't change from its number two ranking. Which indicates that the ninth graders' reading and math scores were indeed negligible. 
-![THS_Old_Results3](https://raw.githubusercontent.com/krismbah/Election_Analysis/main/data-Module-3-Challenge-election-results-2.png)
-![THS_New_Results4](https://raw.githubusercontent.com/krismbah/Election_Analysis/main/data-Module-3-Challenge-election-results-2.png)
+![THS_Old_Results3](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results3.jpg)
+![THS_New_Results4](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results4.jpg)
 
 - How does replacing the ninth-grade scores affect the following:
     -Math and reading scores by grade
@@ -39,8 +39,8 @@ Replacing the ninth graders' improved average math and reading scores. However, 
 
     -Scores by school type
     Replacing the ninth-grade scores improved the average reading score for "Charter" school types. However, the average math score was lowered and passing percentages were also lowered across the board.
-![Ninth_Old_Results5](https://raw.githubusercontent.com/krismbah/Election_Analysis/main/data-Module-3-Challenge-election-results-2.png)
-![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/Election_Analysis/main/data-Module-3-Challenge-election-results-2.png)
+![Ninth_Old_Results5](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results5.jpg)
+![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results6.jpg)
 
 ## Summary
 
