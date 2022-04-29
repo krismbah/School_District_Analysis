@@ -24,7 +24,9 @@ Using the school data, an index of school type was created. Metrics regarding to
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing the ninth graders' improved average math and reading scores. However, it lowered the percentage of students passing math, reading, and both subjects overall. THS didn't change from its number two ranking. Which indicates that the ninth graders' reading and math scores were indeed negligible. 
+Old results:
 ![THS_Old_Results3](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results3.jpg)
+New results:
 ![THS_New_Results4](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results4.jpg)
 
 - How does replacing the ninth-grade scores affect the following:
@@ -40,7 +42,9 @@ Replacing the ninth graders' improved average math and reading scores. However, 
 
     -Scores by school type:
      Replacing the ninth-grade scores improved the average reading score for "Charter" school types. However, the average math score was lowered and passing percentages were also lowered across the board.
+Old results:
 ![Ninth_Old_Results5](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results5.jpg)
+New results:
 ![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results6.jpg)
 
 ## Summary
