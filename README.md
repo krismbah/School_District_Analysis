@@ -26,9 +26,11 @@ Using the school data, an index of school type was created. Metrics regarding to
 Replacing the ninth graders' improved average math and reading scores. However, it lowered the percentage of students passing math, reading, and both subjects overall. THS didn't change from its number two ranking. Which indicates that the ninth graders' reading and math scores were indeed negligible. 
 
 Old results:
+
 ![THS_Old_Results3](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results3.jpg)
 
 New results:
+
 ![THS_New_Results4](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results4.jpg)
 
 - How does replacing the ninth-grade scores affect the following:
