@@ -28,6 +28,7 @@ Replacing the ninth graders' improved average math and reading scores. However, 
 ![THS_New_Results4](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results4.jpg)
 
 - How does replacing the ninth-grade scores affect the following:
+
     -Math and reading scores by grade:
      Replacing the ninth-grade scores didn't affect the math and reading scores of any other grade at THS.
     
